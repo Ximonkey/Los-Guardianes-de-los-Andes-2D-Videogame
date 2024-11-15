@@ -1,0 +1,25 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Logs/
+
+# User-specific files
+/UserSettings/
+
+# Build results
+/Build/
+
+# Unity version control and other files
+.idea/
+.vs/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore .colabignore file (si lo tienes)
+.colabignore
+
+# Git ignore file itself if it has a wrong name
+gitignore.gitignore

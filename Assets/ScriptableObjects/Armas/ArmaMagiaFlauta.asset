@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df6ff76e76998b479ad6861e3629b9d, type: 3}
+  m_Name: ArmaMagiaFlauta
+  m_EditorClassIdentifier: 
+  ArmaIcono: {fileID: 21300000, guid: c8934fa9429359a4184696f7d8883981, type: 3}
+  IconoSkill: {fileID: 5930520920854219943, guid: a17a3ffcb8442124e9a3ea9a3030b57f, type: 3}
+  Tipo: 0
+  "Da\xF1o": 5
+  ProyectilPrefab: {fileID: 6613433387753923294, guid: abe7baa5380049f46a2ac7da33052d03, type: 3}
+  ManaRequerida: 2
+  ChanceCritico: 2
+  ChanceBloqueo: 0

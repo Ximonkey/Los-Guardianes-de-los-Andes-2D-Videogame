@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b59195c13e9af447befed83559cccd7, type: 3}
+  m_Name: Poncho
+  m_EditorClassIdentifier: 
+  ID: Poncho
+  Nombre: Poncho
+  Icono: {fileID: 21300000, guid: 3b761ebe781227b499b4e0048414c58c, type: 3}
+  Descripcion: "Este poncho, tejido con la lana m\xE1s fina de las vicu\xF1as que
+    habitan en lo alto de las monta\xF1as, es una obra maestra de los artesanos de
+    la aldea."
+  Tipo: 4
+  EsConsumible: 0
+  EsAcumulable: 0
+  AcumulacionMax: 1
+  Cantidad: 0

@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: c5c90513da9cc85409cc33aaecde7b2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5994637885513601762
+    second: FG_Abandoned_Mines_0
+  - first:
+      213: -2303844244520253306
+    second: FG_Abandoned_Mines_1
+  - first:
+      213: 8914351954237535939
+    second: FG_Abandoned_Mines_2
+  - first:
+      213: 1866487351408769123
+    second: FG_Abandoned_Mines_3
+  - first:
+      213: 4475414712590982080
+    second: FG_Abandoned_Mines_4
+  - first:
+      213: 6531949345902549441
+    second: FG_Abandoned_Mines_5
+  - first:
+      213: -6156892841727779912
+    second: FG_Abandoned_Mines_6
+  - first:
+      213: 7626470312357981464
+    second: FG_Abandoned_Mines_7
+  - first:
+      213: -1817379222007463190
+    second: FG_Abandoned_Mines_8
+  - first:
+      213: 4904757212432860938
+    second: FG_Abandoned_Mines_9
+  - first:
+      213: 5471006128170275435
+    second: FG_Abandoned_Mines_10
+  - first:
+      213: 1698527304584441673
+    second: FG_Abandoned_Mines_11
+  - first:
+      213: -9103910677440153153
+    second: FG_Abandoned_Mines_12
+  - first:
+      213: 6396246323564850218
+    second: FG_Abandoned_Mines_13
+  - first:
+      213: -2611589213487751040
+    second: FG_Abandoned_Mines_14
+  - first:
+      213: 6911840801792579097
+    second: FG_Abandoned_Mines_15
+  - first:
+      213: 7758824138805635876
+    second: FG_Abandoned_Mines_16
+  - first:
+      213: 8731189927823279319
+    second: FG_Abandoned_Mines_17
+  - first:
+      213: -6878411547495056850
+    second: FG_Abandoned_Mines_18
+  - first:
+      213: -5390925524081003739
+    second: FG_Abandoned_Mines_19
+  - first:
+      213: -6927739762960758938
+    second: FG_Abandoned_Mines_20
+  - first:
+      213: 7562379797881968926
+    second: FG_Abandoned_Mines_21
+  - first:
+      213: 6240697518611240683
+    second: FG_Abandoned_Mines_22
+  - first:
+      213: 4333739852458889471
+    second: FG_Abandoned_Mines_23
+  - first:
+      213: -2133657140745104720
+    second: FG_Abandoned_Mines_24
+  - first:
+      213: -5439768877949581249
+    second: FG_Abandoned_Mines_25
+  - first:
+      213: 6854242599779860758
+    second: FG_Abandoned_Mines_26
+  - first:
+      213: 1156304427519177056
+    second: FG_Abandoned_Mines_27
+  - first:
+      213: 7797467666431572810
+    second: FG_Abandoned_Mines_28
+  - first:
+      213: -3921355265381062862
+    second: FG_Abandoned_Mines_29
+  - first:
+      213: -3905322671596112432
+    second: FG_Abandoned_Mines_30
+  - first:
+      213: 4537546581706101097
+    second: FG_Abandoned_Mines_31
+  - first:
+      213: 4987748696753438726
+    second: FG_Abandoned_Mines_32
+  - first:
+      213: 1776737899692675251
+    second: FG_Abandoned_Mines_33
+  - first:
+      213: -3498687213124172669
+    second: FG_Abandoned_Mines_34
+  - first:
+      213: 7051085218398303523
+    second: FG_Abandoned_Mines_35
+  - first:
+      213: -667456036699444195
+    second: FG_Abandoned_Mines_36
+  - first:
+      213: -8214659384929631664
+    second: FG_Abandoned_Mines_37
+  - first:
+      213: 8872392198352643849
+    second: FG_Abandoned_Mines_38
+  - first:
+      213: -7034084693973606152
+    second: FG_Abandoned_Mines_39
+  - first:
+      213: -4900791154697445299
+    second: FG_Abandoned_Mines_40
+  - first:
+      213: -6024512617547581621
+    second: FG_Abandoned_Mines_41
+  - first:
+      213: 6226099990630314418
+    second: FG_Abandoned_Mines_42
+  - first:
+      213: -6941479660071072662
+    second: FG_Abandoned_Mines_43
+  - first:
+      213: -2856355451230984643
+    second: FG_Abandoned_Mines_44
+  - first:
+      213: -5005636258810205593
+    second: FG_Abandoned_Mines_45
+  - first:
+      213: -4246926518365209011
+    second: FG_Abandoned_Mines_46
+  - first:
+      213: -4538608605430281969
+    second: FG_Abandoned_Mines_47
+  - first:
+      213: -288690116865978922
+    second: FG_Abandoned_Mines_48
+  - first:
+      213: 963095726684643021
+    second: FG_Abandoned_Mines_49
+  - first:
+      213: -7394251558989097288
+    second: FG_Abandoned_Mines_50
+  - first:
+      213: -7772977316953825363
+    second: FG_Abandoned_Mines_51
+  - first:
+      213: -2460786249314407340
+    second: FG_Abandoned_Mines_52
+  - first:
+      213: 1204846496165927007
+    second: FG_Abandoned_Mines_53
+  - first:
+      213: 2242109826960860904
+    second: FG_Abandoned_Mines_54
+  - first:
+      213: 5408019330207375348
+    second: FG_Abandoned_Mines_55
+  - first:
+      213: -2759698770270283675
+    second: FG_Abandoned_Mines_56
+  - first:
+      213: 9093495763654254029
+    second: FG_Abandoned_Mines_57
+  - first:
+      213: -8576664009980764160
+    second: FG_Abandoned_Mines_58
+  - first:
+      213: 7260721526431537249
+    second: FG_Abandoned_Mines_59
+  - first:
+      213: 785276688397090320
+    second: FG_Abandoned_Mines_60
+  - first:
+      213: 5150050700540916953
+    second: FG_Abandoned_Mines_61
+  - first:
+      213: 2434621708823520047
+    second: FG_Abandoned_Mines_62
+  - first:
+      213: 8095256553621098446
+    second: FG_Abandoned_Mines_63
+  - first:
+      213: -474132944471275921
+    second: FG_Abandoned_Mines_64
+  - first:
+      213: -9148317806049140400
+    second: FG_Abandoned_Mines_65
+  - first:
+      213: -4289225355864740004
+    second: FG_Abandoned_Mines_66
+  - first:
+      213: 806821745513615057
+    second: FG_Abandoned_Mines_67
+  - first:
+      213: 3844825125721069885
+    second: FG_Abandoned_Mines_68
+  - first:
+      213: 7826167263860691180
+    second: FG_Abandoned_Mines_69
+  - first:
+      213: -3013437512258489099
+    second: FG_Abandoned_Mines_70
+  - first:
+      213: -46807458711820477
+    second: FG_Abandoned_Mines_71
+  - first:
+      213: -2228426700830653895
+    second: FG_Abandoned_Mines_72
+  - first:
+      213: 5547549300760501330
+    second: FG_Abandoned_Mines_73
+  - first:
+      213: -8491462985753929005
+    second: FG_Abandoned_Mines_74
+  - first:
+      213: 9010980732141465463
+    second: FG_Abandoned_Mines_75
+  - first:
+      213: -7424148977291588373
+    second: FG_Abandoned_Mines_76
+  - first:
+      213: 5482585858747432695
+    second: FG_Abandoned_Mines_77
+  - first:
+      213: 586894733326114073
+    second: FG_Abandoned_Mines_78
+  - first:
+      213: -2151197966792614233
+    second: FG_Abandoned_Mines_79
+  - first:
+      213: -4311662101203494492
+    second: FG_Abandoned_Mines_80
+  - first:
+      213: 6358564845887063057
+    second: FG_Abandoned_Mines_81
+  - first:
+      213: 7815828490515329959
+    second: FG_Abandoned_Mines_82
+  - first:
+      213: 8752264288485956883
+    second: FG_Abandoned_Mines_83
+  - first:
+      213: 8280416953645694882
+    second: FG_Abandoned_Mines_84
+  - first:
+      213: -3925646053296490143
+    second: FG_Abandoned_Mines_85
+  - first:
+      213: -4809918591583275929
+    second: FG_Abandoned_Mines_86
+  - first:
+      213: 7179335021666493902
+    second: FG_Abandoned_Mines_87
+  - first:
+      213: 1503906337541296886
+    second: FG_Abandoned_Mines_88
+  - first:
+      213: 1243957646543522238
+    second: FG_Abandoned_Mines_89
+  - first:
+      213: -8705467251648037264
+    second: FG_Abandoned_Mines_90
+  - first:
+      213: -1796211701463018640
+    second: FG_Abandoned_Mines_91
+  - first:
+      213: -1562785790593985260
+    second: FG_Abandoned_Mines_92
+  - first:
+      213: -3903291751150473942
+    second: FG_Abandoned_Mines_93
+  - first:
+      213: 2273998797639293754
+    second: FG_Abandoned_Mines_94
+  - first:
+      213: -5995397964818667036
+    second: FG_Abandoned_Mines_95
+  - first:
+      213: 2952011708886972342
+    second: FG_Abandoned_Mines_96
+  - first:
+      213: 2215396734190486061
+    second: FG_Abandoned_Mines_97
+  - first:
+      213: 6043518395296857788
+    second: FG_Abandoned_Mines_98
+  - first:
+      213: 7232056754326070396
+    second: FG_Abandoned_Mines_99
+  - first:
+      213: 5521407214702013392
+    second: FG_Abandoned_Mines_100
+  - first:
+      213: 1071722850925718658
+    second: FG_Abandoned_Mines_101
+  - first:
+      213: -8301524601063348336
+    second: FG_Abandoned_Mines_102
+  - first:
+      213: 3017689801725460728
+    second: FG_Abandoned_Mines_103
+  - first:
+      213: -6580455470368698438
+    second: FG_Abandoned_Mines_104
+  - first:
+      213: 5573217266659924456
+    second: FG_Abandoned_Mines_105
+  - first:
+      213: 8650763815128859578
+    second: FG_Abandoned_Mines_106
+  - first:
+      213: 2410808950060879706
+    second: FG_Abandoned_Mines_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 496
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2132b556b313350800000000000000
+      internalID: 5994637885513601762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 496
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ca8badd91700e0800000000000000
+      internalID: -2303844244520253306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c633234fd326bb70800000000000000
+      internalID: 8914351954237535939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ba766b5817e910800000000000000
+      internalID: 1866487351408769123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbda8628fddb1e30800000000000000
+      internalID: 4475414712590982080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dd55825526aa50800000000000000
+      internalID: 6531949345902549441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9ba0c4925e8aa0800000000000000
+      internalID: -6156892841727779912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de822a75aa6d960800000000000000
+      internalID: 7626470312357981464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c11af93f57c6e0800000000000000
+      internalID: -1817379222007463190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07889cb2b2311440800000000000000
+      internalID: 4904757212432860938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621391461beceb40800000000000000
+      internalID: 5471006128170275435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fae079591629710800000000000000
+      internalID: 1698527304584441673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb93b44397968a180800000000000000
+      internalID: -9103910677440153153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2bfb742804c850800000000000000
+      internalID: 6396246323564850218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08022d67275c1cbd0800000000000000
+      internalID: -2611589213487751040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 496
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d5e6b69acbef50800000000000000
+      internalID: 6911840801792579097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 575
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6c3c3271ecab60800000000000000
+      internalID: 7758824138805635876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40062cafa6b2970800000000000000
+      internalID: 8731189927823279319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2abc941429fa80a0800000000000000
+      internalID: -6878411547495056850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 466
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b0965cc59f25b0800000000000000
+      internalID: -5390925524081003739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 466
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667006ce369bbdf90800000000000000
+      internalID: -6927739762960758938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 466
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195855eb58f2f860800000000000000
+      internalID: 7562379797881968926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 466
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be61c7b14596b9650800000000000000
+      internalID: 6240697518611240683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 240
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff014c64f69842c30800000000000000
+      internalID: 4333739852458889471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29965922ab362e0800000000000000
+      internalID: -2133657140745104720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 149
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380791d60f0284b0800000000000000
+      internalID: -5439768877949581249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 145
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118a3444592f1f50800000000000000
+      internalID: 6854242599779860758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061fd7e10c40c0010800000000000000
+      internalID: 1156304427519177056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b7f35a78b263c60800000000000000
+      internalID: 7797467666431572810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237aad0992c8499c0800000000000000
+      internalID: -3921355265381062862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fb32b8b18dc9c0800000000000000
+      internalID: -3905322671596112432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961516a339a98fe30800000000000000
+      internalID: 4537546581706101097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60008e2730b083540800000000000000
+      internalID: 4987748696753438726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 21, z: 7, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d72ac4bd38a810800000000000000
+      internalID: 1776737899692675251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844889348a227fc0800000000000000
+      internalID: -3498687213124172669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32573abd5ac7ad160800000000000000
+      internalID: 7051085218398303523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 448
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce65d5548bcb6f0800000000000000
+      internalID: -667456036699444195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c07200daaffd80800000000000000
+      internalID: -8214659384929631664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a1ca42b1112b70800000000000000
+      internalID: 8872392198352643849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e0bf2d39e16e90800000000000000
+      internalID: -7034084693973606152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e1e90964ecfbb0800000000000000
+      internalID: -4900791154697445299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b73e81b1a46ca0800000000000000
+      internalID: -6024512617547581621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1359544fc876650800000000000000
+      internalID: 6226099990630314418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 416
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c4dd5d609eaaf90800000000000000
+      internalID: -6941479660071072662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366029c9df2c58d0800000000000000
+      internalID: -2856355451230984643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_45
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 416
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6dc6f758688ab0800000000000000
+      internalID: -5005636258810205593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb7ad25d2ef05c0800000000000000
+      internalID: -4246926518365209011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f090cca158f9301c0800000000000000
+      internalID: -4538608605430281969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd89064edd5efbf0800000000000000
+      internalID: -288690116865978922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 384
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1cb1f57a9d5d00800000000000000
+      internalID: 963095726684643021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 384
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6939e2267526990800000000000000
+      internalID: -7394251558989097288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5ccf2056d02490800000000000000
+      internalID: -7772977316953825363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce27da1f789ddd0800000000000000
+      internalID: -2460786249314407340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5818d4318978b010800000000000000
+      internalID: 1204846496165927007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 544
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e62a6722039d1f10800000000000000
+      internalID: 2242109826960860904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_55
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 592
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd47b8de42d0b40800000000000000
+      internalID: 5408019330207375348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 575
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56815f6079493b9d0800000000000000
+      internalID: -2759698770270283675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 592
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9127b736923e70800000000000000
+      internalID: 9093495763654254029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 592
+        width: 3
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002837268199f880800000000000000
+      internalID: -8576664009980764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 212
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168dbf362c343c460800000000000000
+      internalID: 7260721526431537249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebd4eccfcd5ea00800000000000000
+      internalID: 785276688397090320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 474
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43ef473d7a87740800000000000000
+      internalID: 5150050700540916953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 336
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2361e48b8389c120800000000000000
+      internalID: 2434621708823520047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0d3ce1f0285070800000000000000
+      internalID: 8095256553621098446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ca7c599a8b69f0800000000000000
+      internalID: -474132944471275921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516f0edc65aa0180800000000000000
+      internalID: -9148317806049140400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f651e934c9974c0800000000000000
+      internalID: -4289225355864740004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de46625a18623b00800000000000000
+      internalID: 806821745513615057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d912c4109b5530800000000000000
+      internalID: 3844825125721069885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0153369a12c9c60800000000000000
+      internalID: 7826167263860691180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4fef86c8e1e26d0800000000000000
+      internalID: -3013437512258489099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a4a24dd4b95ff0800000000000000
+      internalID: -46807458711820477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324ef8e8b90311e0800000000000000
+      internalID: -2228426700830653895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cdbc562badcfc40800000000000000
+      internalID: 5547549300760501330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_74
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 304
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da52c67763482a80800000000000000
+      internalID: -8491462985753929005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_75
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 128
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6e21db3f6d0d70800000000000000
+      internalID: 9010980732141465463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec84f807df18f890800000000000000
+      internalID: -7424148977291588373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_77
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 336
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe78316ace061c40800000000000000
+      internalID: 5482585858747432695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 369
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d537486a1152800800000000000000
+      internalID: 586894733326114073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae98c3c8d86522e0800000000000000
+      internalID: -2151197966792614233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 369
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95042c926e924c0800000000000000
+      internalID: -4311662101203494492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148268c9092e3850800000000000000
+      internalID: 6358564845887063057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 304
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33b822a96677c60800000000000000
+      internalID: 7815828490515329959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_83
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 534
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dda87bff9467970800000000000000
+      internalID: 8752264288485956883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 269
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7c2a0953f9e270800000000000000
+      internalID: 8280416953645694882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_85
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1693957a6bd4589c0800000000000000
+      internalID: -3925646053296490143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b126668cbf3db0800000000000000
+      internalID: -4809918591583275929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_87
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e3f91a2f12a360800000000000000
+      internalID: 7179335021666493902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 257
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29b9098d2fed410800000000000000
+      internalID: 1503906337541296886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98bd583ec634110800000000000000
+      internalID: 1243957646543522238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef8bd78a7ff2780800000000000000
+      internalID: -8705467251648037264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07395e869f29217e0800000000000000
+      internalID: -1796211701463018640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4151e9b7a9edf4ae0800000000000000
+      internalID: -1562785790593985260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da6f535d8b4d9c0800000000000000
+      internalID: -3903291751150473942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b94f8bbddde8f10800000000000000
+      internalID: 2273998797639293754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e922e3e0511ccca0800000000000000
+      internalID: -5995397964818667036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_96
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b770014207a7f820800000000000000
+      internalID: 2952011708886972342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220cf1979baebe10800000000000000
+      internalID: 2215396734190486061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3539e5f3eed350800000000000000
+      internalID: 6043518395296857788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_99
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e11d0d4d6d5460800000000000000
+      internalID: 7232056754326070396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba79cab9aff9c40800000000000000
+      internalID: 5521407214702013392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 320
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca81331468fde00800000000000000
+      internalID: 1071722850925718658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_102
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 165
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e373db5f0bcc80800000000000000
+      internalID: -8301524601063348336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_103
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 354
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04a22e2ecf0e920800000000000000
+      internalID: 3017689801725460728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_104
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 354
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc56c4d968da4a0800000000000000
+      internalID: -6580455470368698438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_105
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 354
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9965b639b085d40800000000000000
+      internalID: 5573217266659924456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30f8c2bdfad0870800000000000000
+      internalID: 8650763815128859578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Abandoned_Mines_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f06b197f9e47120800000000000000
+      internalID: 2410808950060879706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

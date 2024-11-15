@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb99aca07364cb41ab7e9428d9fc668, type: 3}
+  m_Name: ItemElote
+  m_EditorClassIdentifier: 
+  ID: Elote
+  Nombre: Elote Dorado
+  Icono: {fileID: -8689864928591469805, guid: 0eb2466e52bdbcf4da319417337d122a, type: 3}
+  Descripcion: Famoso por su sabor y sus propiedades revitalizantes.
+  Tipo: 1
+  EsConsumible: 1
+  EsAcumulable: 1
+  AcumulacionMax: 25
+  Cantidad: 0
+  HPRestauracion: 5

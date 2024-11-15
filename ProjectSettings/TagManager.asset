@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Limite
+    uniqueID: 3760947547
+    locked: 0
+  - name: Piso_Pasto_Mina
+    uniqueID: 3965896715
+    locked: 0
+  - name: Camino
+    uniqueID: 2667255209
+    locked: 0
+  - name: Mina
+    uniqueID: 1313593479
+    locked: 0
+  - name: Item
+    uniqueID: 2135442897
+    locked: 0
+  - name: Personaje
+    uniqueID: 3303982065
+    locked: 0
+  - name: UI
+    uniqueID: 4072280487
+    locked: 0
+  - name: Proyectil
+    uniqueID: 2360076469
+    locked: 0

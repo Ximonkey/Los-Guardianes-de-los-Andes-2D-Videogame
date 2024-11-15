@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310e08527a8e9ea409a12364f605cac2, type: 3}
+  m_Name: AmautaQuest
+  m_EditorClassIdentifier: 
+  Nombre: Amauta
+  Icono: {fileID: 21300000, guid: 8bcb3651b22a006469b405b09b2dedd2, type: 3}
+  ContieneInteraccionExtra: 1
+  InteraccionExtra: 1
+  Saludo: "\xA1Bienvenido! Siempre es un placer ver una cara conocida por aqu\xED.
+    \xBFQu\xE9 puedo ofrecerte hoy?"
+  Conversacion: []
+  Despedida: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310e08527a8e9ea409a12364f605cac2, type: 3}
+  m_Name: MayuDialogo
+  m_EditorClassIdentifier: 
+  Nombre: Mayu
+  Icono: {fileID: 21300000, guid: 82930ddb718d85d4184bed4761907454, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: "\xA1Hola, Qhari! Que alegria verte por aqui. "
+  Conversacion:
+  - Oracion: 'Sabes, mientras cuido de estos campos, no puedo evitar recordar las
+      historias que nuestros ancianos nos contaban. '
+  - Oracion: Mucho antes de que nuestros tiempos comenzaran, estas tierras eran gobernadas
+      por los dioses de la naturaleza.
+  - Oracion: 'Inti, el dios del sol, y Pachamama, la madre tierra, cuidaban de nuestro
+      pueblo, bendiciendo los cultivos de maiz y tomate que ves aqui. '
+  - Oracion: Los ancianos dicen que el maiz dorado lleva la luz del sol en su interior,
+      mientras que los tomates contienen la energia de la tierra.
+  - Oracion: Los ancianos dicen que el maiz dorado lleva la luz del sol en su interior,
+      mientras que los tomates contienen la energia de la tierra.
+  Despedida: "\xA1Cuidate, y que los espiritus de nuestros ancestros guien tus pasos!"

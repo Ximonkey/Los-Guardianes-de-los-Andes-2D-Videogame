@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef17352f9a3d88e4f99d7cd9fecab76b, type: 3}
+  m_Name: ItemPocionMana
+  m_EditorClassIdentifier: 
+  ID: PocionMana
+  Nombre: Chicha Sagrada
+  Icono: {fileID: 21300000, guid: 45deada6de9bfa24a905e1167a0ad88b, type: 3}
+  Descripcion: "Elaborada a partir de ma\xEDz morado fermentado y hojas de coca seleccionadas,
+    es una bebida sagrada que otorga 20 puntos de energ\xEDa."
+  Tipo: 1
+  EsConsumible: 1
+  EsAcumulable: 1
+  AcumulacionMax: 50
+  Cantidad: 0
+  MPRestauracion: 20

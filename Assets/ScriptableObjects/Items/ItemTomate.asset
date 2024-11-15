@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef17352f9a3d88e4f99d7cd9fecab76b, type: 3}
+  m_Name: ItemTomate
+  m_EditorClassIdentifier: 
+  ID: Tomate
+  Nombre: Tomate del Sol
+  Icono: {fileID: -8933993944577614476, guid: 0eb2466e52bdbcf4da319417337d122a, type: 3}
+  Descripcion: " Este fruto no solo es delicioso, sino que est\xE1 lleno de energ\xEDa
+    solar concentrada."
+  Tipo: 1
+  EsConsumible: 1
+  EsAcumulable: 1
+  AcumulacionMax: 25
+  Cantidad: 0
+  MPRestauracion: 5
